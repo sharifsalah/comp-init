@@ -43,7 +43,7 @@ The script will take several minutes to complete and if you login too early you 
 ```shell
 source /etc/profile.d/env_vars.sh
 ```
-Alternatively you can log out and back in again to apply the path. Once the script has completed your path will be automatically updated at login.
+Alternatively you can log out and back in again to apply the path. Once the script has completed your path will be automatically updated each time you login.
 
 To use most Google Cloud Platform services you will also need to login to the Cloud SDK via OAuth 2
 
